@@ -23,20 +23,13 @@ iOS · Android · Full-Stack · San Diego, CA
 
 <table>
 <tr>
-<td width="50%">
-<table><tr>
-<td><a href="https://border-times.com"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/49/3a/32493a4c-6af7-0e71-aea6-21edbf62cf9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="60" height="60"></a></td>
-<td valign="top"><b>Border Times</b><br>Live border crossing wait times, crowdsourced from an active community. SwiftUI + Kotlin Compose · AWS + DynamoDB<br><br>
-<a href="https://apps.apple.com/us/app/border-times/id6753611647"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.bordertimes.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"></a></td>
-</tr></table>
-</td>
-<td width="50%">
-<table><tr>
-<td><a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/86/fb/2886fbb8-010b-ccf9-65cd-7da2b863184b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="60" height="60"></a></td>
-<td valign="top"><b>Mile Tracker+</b><br>Mileage and route tracker with invoice reports and trend analysis. SwiftUI + SwiftData<br><br>
-<a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a></td>
-</tr></table>
-</td>
+<td width="64" valign="top"><a href="https://border-times.com"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/49/3a/32493a4c-6af7-0e71-aea6-21edbf62cf9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="52" height="52"></a></td>
+<td valign="top"><b>Border Times</b><br>Live border crossing wait times, crowdsourced from an active community. SwiftUI + Kotlin Compose · AWS Lambda + DynamoDB<br><br><a href="https://apps.apple.com/us/app/border-times/id6753611647"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.bordertimes.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"></a></td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="64" valign="top"><a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/86/fb/2886fbb8-010b-ccf9-65cd-7da2b863184b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="52" height="52"></a></td>
+<td valign="top"><b>Mile Tracker+</b><br>Mileage and route tracker with invoice reports and trend analysis. SwiftUI + SwiftData<br><br><a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a></td>
 </tr>
 </table>
 
