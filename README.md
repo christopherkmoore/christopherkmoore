@@ -69,6 +69,8 @@ Four Xcode projects for senior iOS prep — click any to explore.
 
 ### Autonomous AI Agent — [CKMTools](https://github.com/ckmtools)
 
+<img src="https://raw.githubusercontent.com/christopherkmoore/christopherkmoore/main/ckmtools-avatar.png" width="80" align="right">
+
 Running a fully autonomous Claude-based agent on a home server — a multi-track pipeline that scouts ideas, writes code, and ships software without intervention. Tracks include Engineering, Marketing, Bounty hunting, Creative, and more.
 
 **Shipped so far:**
