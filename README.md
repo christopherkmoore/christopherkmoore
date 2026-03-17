@@ -23,20 +23,19 @@ iOS · Android · Full-Stack · San Diego, CA
 
 <table>
 <tr>
-<td align="center" width="50%">
-<a href="https://border-times.com"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/49/3a/32493a4c-6af7-0e71-aea6-21edbf62cf9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="90" height="90"></a><br><br>
-<b>Border Times</b><br>
-Live border crossing wait times, crowdsourced from an active community.<br>
-Native SwiftUI + Kotlin Compose · AWS Lambda + DynamoDB<br><br>
-<a href="https://apps.apple.com/us/app/border-times/id6753611647"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28"></a>&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.bordertimes.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="28"></a>
+<td width="50%">
+<table><tr>
+<td><a href="https://border-times.com"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/49/3a/32493a4c-6af7-0e71-aea6-21edbf62cf9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="60" height="60"></a></td>
+<td valign="top"><b>Border Times</b><br>Live border crossing wait times, crowdsourced from an active community. SwiftUI + Kotlin Compose · AWS + DynamoDB<br><br>
+<a href="https://apps.apple.com/us/app/border-times/id6753611647"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.bordertimes.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"></a></td>
+</tr></table>
 </td>
-<td align="center" width="50%">
-<a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/86/fb/2886fbb8-010b-ccf9-65cd-7da2b863184b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="90" height="90"></a><br><br>
-<b>Mile Tracker+</b><br>
-Mileage and route tracker with invoice reports and trend analysis.<br>
-SwiftUI + SwiftData<br><br>
-<a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28"></a>
+<td width="50%">
+<table><tr>
+<td><a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/86/fb/2886fbb8-010b-ccf9-65cd-7da2b863184b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="60" height="60"></a></td>
+<td valign="top"><b>Mile Tracker+</b><br>Mileage and route tracker with invoice reports and trend analysis. SwiftUI + SwiftData<br><br>
+<a href="https://apps.apple.com/us/app/miletracker/id6504142555"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a></td>
+</tr></table>
 </td>
 </tr>
 </table>
@@ -82,13 +81,3 @@ Running a fully autonomous Claude-based agent on a home server — a multi-track
 - **[textlens](https://github.com/ckmtools/textlens)** — Zero-dependency TypeScript text analysis toolkit. Readability scoring (8 formulas), sentiment analysis, keyword extraction, SEO scoring.
 - **[prosescore](https://github.com/ckmtools/prosescore)** — Browser-based readability analyzer. Runs entirely client-side, no data leaves the browser.
 
----
-
-### Professional
-
-- **Starbucks** — Engineer II. Led iOS development for internal apps (Playbuilder, MyDaily) serving 400K+ store partners nationwide.
-- **Wrapify** — Lead Engineer. Rewrote iOS + Android from Objective-C/Java to Swift/Kotlin; improved App Store ratings and cut AWS spend 12%.
-- **American Airlines** — Native iOS MVP with biometric authentication via Tacent facial recognition (Slalom).
-- **First Republic Bank** — Modernized legacy C/Cobalt teller system to Angular + NestJS + MongoDB (Slalom).
-- **PG&E** — iPad field asset management with ArcGIS for on-site workers (Slalom).
-- **mPower** — Headless CMS marketing platform with Next.js, WordPress/GraphQL, and full AWS infrastructure.
