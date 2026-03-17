@@ -46,7 +46,7 @@ iOS · Android · Full-Stack · San Diego, CA
 
 **[SwiftUI-Components](https://github.com/christopherkmoore/SwiftUI-Components)** — Library of reusable SwiftUI components.
 
-**[DevSync](https://github.com/christopherkmoore/sync)** — Bidirectional dev environment sync over SSH. Keeps code in sync between machines on the same network with one command.
+**[DevSync](https://github.com/christopherkmoore/devsync)** — Bidirectional dev environment sync over SSH. Keeps code in sync between machines on the same network with one command.
 
 <br>
 
