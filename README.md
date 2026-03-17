@@ -37,11 +37,12 @@ iOS · Android · Full-Stack · San Diego, CA
 
 ### Open Source
 
-<a href="https://github.com/christopherkmoore/OpenButt">
-<img src="https://raw.githubusercontent.com/christopherkmoore/OpenButt/main/docs/banner.png" width="100%">
-</a>
-
-**[OpenButt](https://github.com/christopherkmoore/OpenButt)** — Run Claude Code on your iPhone over SSH. Native SwiftUI client with full chat UI, tool approvals, inline diffs, and WireGuard VPN support. Connects to your desktop via SSH and drives Claude Code as a persistent background process.
+<table>
+<tr>
+<td align="center" width="80"><a href="https://github.com/christopherkmoore/OpenButt"><img src="https://raw.githubusercontent.com/christopherkmoore/christopherkmoore/main/openbutt-icon.png" width="64" height="64"></a></td>
+<td valign="middle"><b><a href="https://github.com/christopherkmoore/OpenButt">OpenButt</a></b><br>Run Claude Code on your iPhone over SSH. Native SwiftUI client with full chat UI, tool approvals, inline diffs, and WireGuard VPN support.</td>
+</tr>
+</table>
 
 **[SwiftUI-Components](https://github.com/christopherkmoore/SwiftUI-Components)** — Library of reusable SwiftUI components.
 
