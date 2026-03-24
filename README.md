@@ -39,8 +39,8 @@ iOS · Android · Full-Stack · San Diego, CA
 
 <table>
 <tr>
-<td align="center" width="80"><a href="https://github.com/christopherkmoore/OpenButt"><img src="https://raw.githubusercontent.com/christopherkmoore/christopherkmoore/main/openbutt-icon.png" width="64" height="64"></a></td>
-<td valign="middle"><b><a href="https://github.com/christopherkmoore/OpenButt">OpenButt</a></b><br>Run Claude Code on your iPhone over SSH. Native SwiftUI client with full chat UI, tool approvals, inline diffs, and WireGuard VPN support.</td>
+<td align="center" width="80"><a href="https://github.com/christopherkmoore/OpenHole"><img src="https://raw.githubusercontent.com/christopherkmoore/christopherkmoore/main/openbutt-icon.png" width="64" height="64"></a></td>
+<td valign="middle"><b><a href="https://github.com/christopherkmoore/OpenHole">OpenHole</a></b><br>Run Claude Code on your iPhone over SSH. Native SwiftUI client with full chat UI, tool approvals, inline diffs, and WireGuard VPN support.</td>
 </tr>
 </table>
 
@@ -76,4 +76,3 @@ Running a fully autonomous Claude-based agent on a home server — a multi-track
 **Shipped so far:**
 - **[textlens](https://github.com/ckmtools/textlens)** — Zero-dependency TypeScript text analysis toolkit. Readability scoring (8 formulas), sentiment analysis, keyword extraction, SEO scoring.
 - **[prosescore](https://github.com/ckmtools/prosescore)** — Browser-based readability analyzer. Runs entirely client-side, no data leaves the browser.
-
